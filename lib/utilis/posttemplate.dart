@@ -74,13 +74,6 @@ class Postemplate extends StatelessWidget {
                       icon: Icons.send,
                       number: numberofShares,
                     ),
-
-                    // Icon(Icons.favorite),
-                    // Text('1.2M'),
-                    // Icon(Icons.chat_bubble_outline),
-                    // Text('2333M'),
-                    // Icon(Icons.send),
-                    // Text('1.6M'),
                   ],
                 )))
       ],
